@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/2ofakindvending/static/css/main.46468c9c.css",
+    "main.js": "/2ofakindvending/static/js/main.2ed7deb1.js",
+    "static/js/787.6d6a0a6a.chunk.js": "/2ofakindvending/static/js/787.6d6a0a6a.chunk.js",
+    "static/media/logo.png": "/2ofakindvending/static/media/logo.025d37ae2f235e2eb08d.png",
+    "static/media/instagram.png": "/2ofakindvending/static/media/instagram.45f4b0c5289bffbd73b3.png",
+    "static/media/timeline.png": "/2ofakindvending/static/media/timeline.13027ad414dece2c1ccc.png",
+    "index.html": "/2ofakindvending/index.html",
+    "main.46468c9c.css.map": "/2ofakindvending/static/css/main.46468c9c.css.map",
+    "main.2ed7deb1.js.map": "/2ofakindvending/static/js/main.2ed7deb1.js.map",
+    "787.6d6a0a6a.chunk.js.map": "/2ofakindvending/static/js/787.6d6a0a6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46468c9c.css",
+    "static/js/main.2ed7deb1.js"
+  ]
+}
